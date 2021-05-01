@@ -1,0 +1,15 @@
+{
+    "title": "Snake game",
+    "cols": 15,
+    "rows": 15,
+    "size": 30,
+    "length": 4,
+    "tick": 0.25,
+    "color": {
+        "bg": "#ffffff",
+        "grid": "#000000",
+        "snake": "#2299ff",
+        "food": "#ff6633",
+        "dead": "#ff3333"
+    }
+}
